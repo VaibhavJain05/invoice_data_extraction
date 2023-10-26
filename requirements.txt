@@ -1,0 +1,13 @@
+transformers
+pytorch-lightning 
+pytesseract
+numpy
+pandas
+cv2
+PIL
+torch
+re
+matplotlib
+copy
+warnings
+git+https://github.com/SamSamhuns/donut.git
